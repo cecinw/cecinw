@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cecinw
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript and PHP
